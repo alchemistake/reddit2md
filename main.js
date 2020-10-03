@@ -18,4 +18,4 @@ function main(reddit) {
     });
 }
 
-main('https://old.reddit.com/r/i3wm/comments/j4ej8t/setting_combo_of_multiple_modifiers_as_mod/')
+main(process.argv[2])
