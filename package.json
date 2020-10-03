@@ -1,0 +1,17 @@
+{
+  "name": "reddit2md",
+  "version": "1.0.0",
+  "description": "converts reddit posts to md",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "turndown": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
